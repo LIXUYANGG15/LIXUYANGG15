@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Learning Open Source Software Development and Applications
+- 🌱 I’m currently learning Open Source Software Development and Applications
+
 
 <!--
 **LIXUYANGG15/LIXUYANGG15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

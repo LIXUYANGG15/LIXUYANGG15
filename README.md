@@ -1,6 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Learning Open Source Software Development and Applications
-- 🌱 I’m currently learning Open Source Software Development and Applications
+- 🔭 저는 대구가툴리대학교의 전기공학과 학생입니다
+- 🌱 저는 현재 오픈 소스 소프트웨어 개발 및 응용 프로그램을 배우고 있습니다
+- 🤔 DCU를 성공적으로 졸업한 것에 대한 도움을 구하고 있습니다
+- 💬 콘서트 티켓팅 방법에 대해서 물어보시는데
+- 📫 나에게 다가가는 방법: mca940027@gmail.com
 
 
 <!--
